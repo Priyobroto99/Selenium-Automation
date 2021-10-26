@@ -1,0 +1,72 @@
+{
+  "ResultDetails": [
+    {
+      "TC_ID": "TC_001",
+      "TC_Desc": "Verify Elements in the page",
+      "TestSteps": [
+        {
+          "StepID": 1,
+          "StepName": "Navigate to url",
+          "StepDesc": "User is able to navigate to url https://www.goibibo.com/",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 2,
+          "StepName": "Verify the presence of Input Element",
+          "StepDesc": "Input elements visible",
+          "Status": true,
+          "Screenshot": ""
+        }
+      ]
+    },
+    {
+      "TC_ID": "TC_001",
+      "TC_Desc": "Verify Elements in the page",
+      "TestSteps": [
+        {
+          "StepID": 1,
+          "StepName": "Navigate to url",
+          "StepDesc": "User is able to navigate to url https://www.goibibo.com/",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 2,
+          "StepName": "Enter Source Location",
+          "StepDesc": "Source Location Kolkata (CCU) entered",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 3,
+          "StepName": "Enter Destination Location",
+          "StepDesc": "Destination Location Jammu (IXJ) entered",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 4,
+          "StepName": "Click \u0027\u003e\u0027 icon",
+          "StepDesc": "User is unable to click \u0027\u003e\u0027 icon in Home page",
+          "Status": false,
+          "Screenshot": "ResultSummary\\SCREENSHOT//Screenshot_26-10-2021-112017.jpg"
+        },
+        {
+          "StepID": 5,
+          "StepName": "Select earliest date",
+          "StepDesc": "User is unable to select the first date of the month",
+          "Status": false,
+          "Screenshot": "ResultSummary\\SCREENSHOT//Screenshot_26-10-2021-112118.jpg"
+        },
+        {
+          "StepID": 6,
+          "StepName": "Click Search Button",
+          "StepDesc": "User is able to click on search Flights Button",
+          "Status": true,
+          "Screenshot": ""
+        }
+      ]
+    }
+  ]
+}

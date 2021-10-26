@@ -1,0 +1,52 @@
+{
+  "ResultDetails": [
+    {
+      "TC_ID": "TC_002",
+      "TC_Desc": "Verify user is able to navigate to bookings page",
+      "TestSteps": [
+        {
+          "StepID": 1,
+          "StepName": "Navigate to url",
+          "StepDesc": "User is able to navigate to url https://www.goibibo.com/",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 2,
+          "StepName": "Enter Source Location",
+          "StepDesc": "Source Location Kolkata (CCU) entered",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 3,
+          "StepName": "Enter Destination Location",
+          "StepDesc": "Destination Location Jammu (IXJ) entered",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 4,
+          "StepName": "Click \u0027\u003e\u0027 icon",
+          "StepDesc": "User is unable to click \u0027\u003e\u0027 icon in Home page",
+          "Status": false,
+          "Screenshot": "ResultSummary\\SCREENSHOT//Screenshot_26-10-2021-115443.jpg"
+        },
+        {
+          "StepID": 5,
+          "StepName": "Select earliest date",
+          "StepDesc": "User is unable to select the first date of the month",
+          "Status": false,
+          "Screenshot": "ResultSummary\\SCREENSHOT//Screenshot_26-10-2021-115515.jpg"
+        },
+        {
+          "StepID": 6,
+          "StepName": "Click Search Button",
+          "StepDesc": "User is unable to click on search Flights Button",
+          "Status": false,
+          "Screenshot": "ResultSummary\\SCREENSHOT//Screenshot_26-10-2021-115519.jpg"
+        }
+      ]
+    }
+  ]
+}

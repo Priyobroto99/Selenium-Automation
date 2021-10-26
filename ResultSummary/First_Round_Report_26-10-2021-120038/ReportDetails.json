@@ -1,0 +1,66 @@
+{
+  "ResultDetails": [
+    {
+      "TC_ID": "TC_003",
+      "TC_Desc": "Verify user is able to book earliest flight next month",
+      "TestSteps": [
+        {
+          "StepID": 1,
+          "StepName": "Navigate to url",
+          "StepDesc": "User is able to navigate to url https://www.goibibo.com/",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 2,
+          "StepName": "Enter Source Location",
+          "StepDesc": "Source Location Kolkata (CCU) entered",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 3,
+          "StepName": "Enter Destination Location",
+          "StepDesc": "Destination Location Jammu (IXJ) entered",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 4,
+          "StepName": "Click \u0027\u003e\u0027 icon",
+          "StepDesc": "User is able to click \u0027\u003e\u0027 icon in Home page",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 5,
+          "StepName": "Select earliest date",
+          "StepDesc": "User is able to select the first date of the month",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 6,
+          "StepName": "Click Search Button",
+          "StepDesc": "User is able to click on search Flights Button",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 7,
+          "StepName": "Click Book Button",
+          "StepDesc": "User is able to click on Book Flights Button",
+          "Status": true,
+          "Screenshot": ""
+        },
+        {
+          "StepID": 8,
+          "StepName": "Get price of earliest flight next month",
+          "StepDesc": "Price of Flight 6438",
+          "Status": true,
+          "Screenshot": ""
+        }
+      ]
+    }
+  ]
+}

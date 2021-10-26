@@ -1,0 +1,13 @@
+@objects
+	lambda_logo   		xpath   //a[@class='navbar-brand']//img[1]
+	start testing		xpath   ////a[@class='home-cta']
+	
+=Main Section=
+	@on desktop
+		lambda_logo:
+			visible
+			image file lambda_QA.PNG, error 30px
+		start testing:
+			visible
+			css font-size is "14px"
+			css background-color is "rgba(0, 0, 0, 1)"

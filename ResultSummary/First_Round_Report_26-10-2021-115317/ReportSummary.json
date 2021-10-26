@@ -1,0 +1,10 @@
+{
+  "ResultSummary": [
+    {
+      "TC_ID": "TC_002",
+      "TC_Desc": "Verify user is able to navigate to bookings page",
+      "Status": false,
+      "Path": "ResultDetails\\RUN_TEST_STEPS_26-10-2021-115317"
+    }
+  ]
+}
