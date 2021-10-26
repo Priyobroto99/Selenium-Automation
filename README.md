@@ -12,3 +12,5 @@ Key Features
 Upcoming updates
 ‣Website to display the test results
 ‣Java Swing to launch Input parameters to launch test suite
+
+Pipeline created in Aws : https://dev.azure.com/priobroto99/Automation_Project-Sample/_build
