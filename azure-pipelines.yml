@@ -7,13 +7,24 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: 'vs2017-win2016'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+- task: Maven@3
+  inputs:
+    mavenPomFile: 'pom.xml'
+    mavenOptions: '-Xmx3072m'
+    javaHomeOption: 'JDKVersion'
+    jdkVersionOption: '1.8'
+    jdkArchitectureOption: 'x64'
+    publishJUnitResults: false
+    testResultsFiles: '**/*.zip'
+    goals: 'clean compile exec:java'
+- task: CopyFiles@2
+  inputs:
+   SourceFolder: "$(System.DefaultWorkingDirectory)"
+   Contents: '**/*.zip'
+   TargetFolder: "$(Build.ArtifactStagingDirectory)"
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathtoPublish: "$(Build.ArtifactStagingDirectory)"
