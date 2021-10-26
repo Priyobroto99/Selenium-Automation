@@ -11,4 +11,4 @@ Key Features
 
 Upcoming updates
 ‣Website to display the test results
-‣Java Swing to launch Input parameters to launch test sutie
+‣Java Swing to launch Input parameters to launch test suite
