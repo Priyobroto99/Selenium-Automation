@@ -24,7 +24,7 @@ import ReportManager.ReportMgr;
 /**
  * @author 
  * 
- * Priyobroto.Lahiri@cognizant.com
+ * Priyobroto.Lahiri@gmail.com
  *
  */
 public class GoIbiboHomePage {
@@ -58,7 +58,8 @@ public class GoIbiboHomePage {
 
 	@CacheLookup
 	@FindAll({ 
-		@FindBy(id = "gosuggest_inputSrc") 
+		@FindBy(id = "gosuggest_inputSrc"),
+		@FindBy(xpath = "//input[@class='inputSrch']") 
 	})
 	private WebElement sourceTexBox;
 	
@@ -111,6 +112,7 @@ public class GoIbiboHomePage {
 
 			Report.updateTestLog("Navigate to url", "User is unable to navigate to specified url ", false);
 		}
+		
 		return this;
 	}
 	

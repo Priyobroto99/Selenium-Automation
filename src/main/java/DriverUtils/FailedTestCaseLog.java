@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * @author 
  * 
- * Priyobroto.Lahiri@cognizant.com
+ * Priyobroto.Lahiri@gmail.com
  *
  */
 public class FailedTestCaseLog {
