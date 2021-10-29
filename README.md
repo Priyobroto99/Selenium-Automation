@@ -14,3 +14,7 @@ Upcoming updates
 ‣Java Swing to launch Input parameters to launch test suite
 
 Pipeline for sample run in Aws : https://dev.azure.com/priobroto99/Automation_Project-Sample/_build
+
+Run in Local :
+1. maven installed : mvn clean complile exec:java
+2. Run java main class : src/main/java/MainRunner/Run
