@@ -28,7 +28,7 @@ public class TestCase003 {
 	private static WebDriver wd;
 	private static ReportMgr Report;
 	private static GoIbiboHomePage ghome;
-	//private static OnlineReportManager oReport;
+	private static FlightsPage flights;
 	
 
 	public TestCase003(WebDriver driver, ReportMgr Report) 
@@ -37,6 +37,7 @@ public class TestCase003 {
 		this.Report=Report;
 		this.Report.setTestStepObjects();
 		ghome = GoIbiboHomePage.using(wd, Config.getConfigval("TestDataFileName"), Report);
+		flights = FlightsPage.using(wd, Config.getConfigval("TestDataFileName"), Report);
 		//oReport = OnlineReportManager.getInstance();
 	}
 	
@@ -51,12 +52,17 @@ public class TestCase003 {
 		}
 
 		try {
+			
+			
 			ghome.launchUrl()
 			.enterSourceLocation()
 			.enterDestLocation()
+			.clickdepartureTXTbx()
 			.clickNxtMnthBtn()
 			.clickNextDate()
-			.clickSearchBtn()
+			.clickSearchBtn();
+			
+			flights
 			.clickBookBtn()
 			.getFlightpriceDisplayed();
 			

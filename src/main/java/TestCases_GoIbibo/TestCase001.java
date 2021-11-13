@@ -51,7 +51,8 @@ public class TestCase001 {
 		}
 
 		try {
-			ghome.launchUrl().verifyElements();
+			ghome.launchUrl()
+			.verifyElements();
 			
 
 		} catch (Exception ex) 

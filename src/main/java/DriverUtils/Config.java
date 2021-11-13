@@ -22,7 +22,7 @@ public class Config {
 
 	public static String getConfigval(String key) {
 		try {
-			return prop.getProperty(key);
+			return prop.getProperty(key).trim();
 		} catch (Exception ex) {
 			Log.addToLog("Config key isn't present in the config file." + "\n" + ex.toString());
 			return null;

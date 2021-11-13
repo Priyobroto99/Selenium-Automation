@@ -1245,3 +1245,117 @@
 26-10-2021 12:01:12| Total testCases failed after first Suite 0
 26-10-2021 12:01:12| Failed Execution Stopped at 12:1:12
 26-10-2021 12:01:12| Total testCases Failed After Retrying :0
+29-10-2021 21:39:24| -----------------------------Starting Test Suite------------------------------------------
+29-10-2021 21:39:27| Execution Started at 21:39:24
+29-10-2021 21:43:13| Suit 1 Execution Stopped at 21:43:13
+29-10-2021 21:43:13| Total testCases failed after first Suite 1
+29-10-2021 21:43:14| Failed Execution Stopped at 21:43:14
+29-10-2021 21:43:14| Total testCases Failed After Retrying :0
+29-10-2021 21:46:55| -----------------------------Starting Test Suite------------------------------------------
+29-10-2021 21:46:56| Execution Started at 21:46:55
+29-10-2021 21:47:22| Suit 1 Execution Stopped at 21:47:22
+29-10-2021 21:47:22| Total testCases failed after first Suite 0
+29-10-2021 21:47:22| Failed Execution Stopped at 21:47:22
+29-10-2021 21:47:22| Total testCases Failed After Retrying :0
+29-10-2021 21:48:25| -----------------------------Starting Test Suite------------------------------------------
+29-10-2021 21:48:27| Execution Started at 21:48:25
+29-10-2021 21:50:37| Suit 1 Execution Stopped at 21:50:37
+29-10-2021 21:50:37| Total testCases failed after first Suite 1
+29-10-2021 21:50:38| Failed Execution Stopped at 21:50:38
+29-10-2021 21:50:38| Total testCases Failed After Retrying :0
+30-10-2021 13:19:01| -----------------------------Starting Test Suite------------------------------------------
+30-10-2021 13:19:05| Execution Started at 13:19:01
+30-10-2021 13:19:53| Suit 1 Execution Stopped at 13:19:53
+30-10-2021 13:19:53| Total testCases failed after first Suite 0
+30-10-2021 13:19:53| Failed Execution Stopped at 13:19:53
+30-10-2021 13:19:53| Total testCases Failed After Retrying :0
+30-10-2021 13:21:27| -----------------------------Starting Test Suite------------------------------------------
+30-10-2021 13:21:30| Execution Started at 13:21:27
+30-10-2021 13:22:33| Suit 1 Execution Stopped at 13:22:33
+30-10-2021 13:22:33| Total testCases failed after first Suite 0
+30-10-2021 13:22:38| Failed Execution Stopped at 13:22:38
+30-10-2021 13:22:38| Total testCases Failed After Retrying :0
+30-10-2021 13:51:36| -----------------------------Starting Test Suite------------------------------------------
+30-10-2021 13:51:38| Execution Started at 13:51:36
+30-10-2021 13:53:20| Suit 1 Execution Stopped at 13:53:20
+30-10-2021 13:53:20| Total testCases failed after first Suite 0
+30-10-2021 13:53:21| Failed Execution Stopped at 13:53:21
+30-10-2021 13:53:21| Total testCases Failed After Retrying :0
+30-10-2021 15:14:55| -----------------------------Starting Test Suite------------------------------------------
+30-10-2021 15:14:59| Execution Started at 15:14:55
+30-10-2021 15:15:49| Suit 1 Execution Stopped at 15:15:49
+30-10-2021 15:15:49| Total testCases failed after first Suite 0
+30-10-2021 15:15:52| Failed Execution Stopped at 15:15:52
+30-10-2021 15:15:52| Total testCases Failed After Retrying :0
+30-10-2021 15:16:12| -----------------------------Starting Test Suite------------------------------------------
+30-10-2021 15:16:14| Execution Started at 15:16:12
+30-10-2021 15:16:39| Suit 1 Execution Stopped at 15:16:39
+30-10-2021 15:16:39| Total testCases failed after first Suite 0
+30-10-2021 15:16:39| Failed Execution Stopped at 15:16:39
+30-10-2021 15:16:39| Total testCases Failed After Retrying :0
+31-10-2021 13:41:47| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 13:41:49| Execution Started at 13:41:47
+31-10-2021 13:42:16| Suit 1 Execution Stopped at 13:42:16
+31-10-2021 13:42:16| Total testCases failed after first Suite 1
+31-10-2021 13:42:17| Failed Execution Stopped at 13:42:17
+31-10-2021 13:42:17| Total testCases Failed After Retrying :0
+31-10-2021 13:43:41| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 13:43:42| Execution Started at 13:43:41
+31-10-2021 13:44:06| Suit 1 Execution Stopped at 13:44:6
+31-10-2021 13:44:06| Total testCases failed after first Suite 1
+31-10-2021 13:44:06| Failed Execution Stopped at 13:44:6
+31-10-2021 13:44:06| Total testCases Failed After Retrying :0
+31-10-2021 13:45:12| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 13:45:13| Execution Started at 13:45:12
+31-10-2021 13:46:27| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 13:46:29| Execution Started at 13:46:27
+31-10-2021 13:46:54| Suit 1 Execution Stopped at 13:46:54
+31-10-2021 13:46:54| Total testCases failed after first Suite 1
+31-10-2021 13:46:54| Failed Execution Stopped at 13:46:54
+31-10-2021 13:46:54| Total testCases Failed After Retrying :0
+31-10-2021 14:36:02| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 14:36:03| Execution Started at 14:36:02
+31-10-2021 14:37:11| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 14:37:12| Execution Started at 14:37:11
+31-10-2021 14:43:26| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 14:43:27| Execution Started at 14:43:26
+31-10-2021 14:44:13| Suit 1 Execution Stopped at 14:44:13
+31-10-2021 14:44:13| Total testCases failed after first Suite 1
+31-10-2021 14:44:13| Failed Execution Stopped at 14:44:13
+31-10-2021 14:44:13| Total testCases Failed After Retrying :0
+31-10-2021 14:44:33| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 14:44:34| Execution Started at 14:44:33
+31-10-2021 14:44:58| Suit 1 Execution Stopped at 14:44:58
+31-10-2021 14:44:58| Total testCases failed after first Suite 0
+31-10-2021 14:44:58| Failed Execution Stopped at 14:44:58
+31-10-2021 14:44:58| Total testCases Failed After Retrying :0
+31-10-2021 15:00:51| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:00:52| Execution Started at 15:00:51
+31-10-2021 15:02:07| Suit 1 Execution Stopped at 15:2:7
+31-10-2021 15:02:07| Total testCases failed after first Suite 1
+31-10-2021 15:02:07| Failed Execution Stopped at 15:2:7
+31-10-2021 15:02:07| Total testCases Failed After Retrying :0
+31-10-2021 15:02:57| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:02:58| Execution Started at 15:02:57
+31-10-2021 15:03:08| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:03:09| Execution Started at 15:03:08
+31-10-2021 15:03:29| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:03:30| Execution Started at 15:03:29
+31-10-2021 15:05:07| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:05:09| Execution Started at 15:05:07
+31-10-2021 15:06:22| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:06:24| Execution Started at 15:06:22
+31-10-2021 15:29:59| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:30:00| Execution Started at 15:29:59
+31-10-2021 15:30:33| Suit 1 Execution Stopped at 15:30:33
+31-10-2021 15:30:33| Total testCases failed after first Suite 1
+31-10-2021 15:30:34| Failed Execution Stopped at 15:30:34
+31-10-2021 15:30:34| Total testCases Failed After Retrying :0
+31-10-2021 15:35:58| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:36:00| Execution Started at 15:35:58
+31-10-2021 15:38:04| -----------------------------Starting Test Suite------------------------------------------
+31-10-2021 15:38:06| Execution Started at 15:38:04
+31-10-2021 15:38:42| Suit 1 Execution Stopped at 15:38:42
+31-10-2021 15:38:42| Total testCases failed after first Suite 0
+31-10-2021 15:38:42| Failed Execution Stopped at 15:38:42
+31-10-2021 15:38:42| Total testCases Failed After Retrying :0

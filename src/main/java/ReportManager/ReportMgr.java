@@ -7,9 +7,12 @@ import java.util.Date;
 import java.util.List;
 import java.util.TreeMap;
 
+import org.json.simple.JSONObject;
+
 import DriverUtils.Config;
 import MainRunner.Run;
 import excel.ExcelWriter;
+import onlineReport.MongoDBConnect;
 import onlineReport.RepOnline;
 import onlineReport.RepOnline.*;
 import testOutput.Logger;
@@ -32,6 +35,7 @@ public class ReportMgr extends Run {
 	ExcelWriter ec = ExcelWriter.getInstance();
 	int testCaseStartedAtLine=0;
 	int testCaseEndedAtLine=0;
+	JSONObject Steps = null;
 	
 	
 	
@@ -40,6 +44,7 @@ public class ReportMgr extends Run {
 		addResultSummaryObjs = new ArrayList<>();
 		addResultDetailObjs = new ArrayList<>();
 		addInfoGraphicsObjs = new ArrayList<>();
+		MongoDBConnect.mongoDBConnect();
 	}
 	
 	public static ReportMgr getInstance() {
@@ -113,6 +118,8 @@ public class ReportMgr extends Run {
 		ec.setData(TCID,0);
 		ec.setData(TestCaseDesc,1);
 		
+		Steps= new JSONObject();
+		
 	}
 	
 	
@@ -157,10 +164,11 @@ public class ReportMgr extends Run {
 	
 	
 	
-	
 	//Tear Down at Test Cases Level
 	public void TearDown(){
 		try {
+			
+			
 			TestStep ts = getTestSteps().stream().filter(testStep -> testStep.getStatus().equals(false)).findFirst()
 					.get();
 			t1.setStatus(ts.getStatus());
@@ -170,7 +178,11 @@ public class ReportMgr extends Run {
 		String pattern = "dd/MM/yyyy";
 		SimpleDateFormat simpleDateFormat = new SimpleDateFormat(pattern);
 		try {
-			RepOnline.getInstance(config.getConfigval("token")).insertTestCase(t1.getTCID(), t1.getTCDesc(), "", testCaseStatus?"PASS":"FAIL", m);
+			RepOnline.getInstance(config.getConfigval("token"))
+			.insertTestCase(t1.getTCID(), t1.getTCDesc(), "", testCaseStatus?"PASS":"FAIL", m);
+		
+			MongoDBConnect.insertTestCaseMongoDB
+			(t1.getTCID(), td.getTCDesc(), testCaseStatus?"PASS":"FAIL", t1.getTCDesc(), Steps);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -186,6 +198,7 @@ public class ReportMgr extends Run {
 		
 		testCaseStatus = true;
 		m.clear();
+		Steps.clear();
 		
 	}
 	
@@ -200,6 +213,8 @@ public class ReportMgr extends Run {
 		String captureTime=util.getDateTimeStamp();
 		String s=ts.getScreenshot();
 		//System.out.println(s);
+		
+		Steps.put(StepName, Status);
 		m.add(RepOnline.getInstance(config.getConfigval("token")).new Step(StepName, Status));
 		Logger.logMessage2(StepName+":"+Status);
 		System.out.println(StepName+":"+Status);

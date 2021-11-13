@@ -54,6 +54,7 @@ public class TestCase002 {
 			ghome.launchUrl()
 			.enterSourceLocation()
 			.enterDestLocation()
+			.clickdepartureTXTbx()
 			.clickNxtMnthBtn()
 			.clickNextDate()
 			.clickSearchBtn();
