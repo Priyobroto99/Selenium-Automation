@@ -17,7 +17,7 @@ public class RunConfig {
 	public static void taskill() {
 		try {
 			Runtime.getRuntime().exec("TASKKILL /F /IM chromedriver.exe");
-		} catch (IOException e1) {
+		} catch (Exception e1) {
 			System.out.println("Task kill Exception occured");
 		}
 	}
