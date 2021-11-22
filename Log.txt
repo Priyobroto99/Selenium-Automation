@@ -1101,3 +1101,268 @@ Element found in clickable state
 13-11-2021 02:35:45
 Clicked on [[ChromeDriver: chrome on XP (65d0b1d32f59b43a9ab6aae40c5a1e4c)] -> xpath: //button[contains(.,'BOOK')]]
 ---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:30:33
+Config key isn't present in the config file.
+java.lang.NullPointerException
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:30:58
+Navigated to https://www.goibibo.com/
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:31:08
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:31:08
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:31:13
+Clicked on [[ChromeDriver: chrome on XP (f62946571493b2f1ca59687ca90cb262)] -> id: departureCalendar]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:31:13
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:31:14
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:31:19
+Clicked on [[ChromeDriver: chrome on XP (f62946571493b2f1ca59687ca90cb262)] -> css selector: span[aria-label='Next Month']]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:20
+Config key isn't present in the config file.
+java.lang.NullPointerException
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:38
+Navigated to https://www.goibibo.com/
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:45
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:46
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:46
+Clicked on [[ChromeDriver: chrome on XP (960a747956ae5f9ba6547cd6e63d9591)] -> id: departureCalendar]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:46
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:46
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:46
+Clicked on [[ChromeDriver: chrome on XP (960a747956ae5f9ba6547cd6e63d9591)] -> css selector: span[aria-label='Next Month']]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:49
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:49
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:35:49
+Clicked on [[ChromeDriver: chrome on XP (960a747956ae5f9ba6547cd6e63d9591)] -> xpath: //button[contains(.,'BOOK')]]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:33
+Config key isn't present in the config file.
+java.lang.NullPointerException
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:49
+Navigated to https://www.goibibo.com/
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:56
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:56
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:56
+Clicked on [[ChromeDriver: chrome on XP (14092a25b54213caf081f656a0aa164e)] -> id: departureCalendar]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:57
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:57
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:57
+Clicked on [[ChromeDriver: chrome on XP (14092a25b54213caf081f656a0aa164e)] -> css selector: span[aria-label='Next Month']]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:59
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:59
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:37:59
+Clicked on [[ChromeDriver: chrome on XP (14092a25b54213caf081f656a0aa164e)] -> xpath: //button[contains(.,'BOOK')]]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:05
+Config key isn't present in the config file.
+java.lang.NullPointerException
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:20
+Navigated to https://www.goibibo.com/
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:28
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:28
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:28
+Clicked on [[ChromeDriver: chrome on XP (44c80006d0e9ff5101d6ecc8f5eeb2c6)] -> id: departureCalendar]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:28
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:28
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:28
+Clicked on [[ChromeDriver: chrome on XP (44c80006d0e9ff5101d6ecc8f5eeb2c6)] -> css selector: span[aria-label='Next Month']]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:30
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:30
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:39:30
+Clicked on [[ChromeDriver: chrome on XP (44c80006d0e9ff5101d6ecc8f5eeb2c6)] -> xpath: //button[contains(.,'BOOK')]]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:18
+Config key isn't present in the config file.
+java.lang.NullPointerException
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:35
+Navigated to https://www.goibibo.com/
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:42
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:42
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:43
+Clicked on [[ChromeDriver: chrome on XP (32318ce3678c80371c40a01dd35f702d)] -> id: departureCalendar]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:43
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:43
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:43
+Clicked on [[ChromeDriver: chrome on XP (32318ce3678c80371c40a01dd35f702d)] -> css selector: span[aria-label='Next Month']]
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:45
+Waiting for Element to be in clickable state & Will wait for  30 seconds
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:45
+Element found in clickable state
+---------------------------------------------Smart Automation Logs---------------------------------------
+
+----------------------------------------------Smart Automation Logs--------------------------------------
+22-11-2021 06:42:45
+Clicked on [[ChromeDriver: chrome on XP (32318ce3678c80371c40a01dd35f702d)] -> xpath: //button[contains(.,'BOOK')]]
+---------------------------------------------Smart Automation Logs---------------------------------------

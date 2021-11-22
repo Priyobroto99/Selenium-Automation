@@ -1365,3 +1365,33 @@
 13-11-2021 14:35:54| Total testCases failed after first Suite 0
 13-11-2021 14:35:54| Failed Execution Stopped at 14:35:54
 13-11-2021 14:35:54| Total testCases Failed After Retrying :0
+22-11-2021 18:30:33| -----------------------------Starting Test Suite------------------------------------------
+22-11-2021 18:30:35| Execution Started at 18:30:33
+22-11-2021 18:32:01| Suit 1 Execution Stopped at 18:32:1
+22-11-2021 18:32:01| Total testCases failed after first Suite 1
+22-11-2021 18:32:01| Failed Execution Stopped at 18:32:1
+22-11-2021 18:32:01| Total testCases Failed After Retrying :0
+22-11-2021 18:35:21| -----------------------------Starting Test Suite------------------------------------------
+22-11-2021 18:35:22| Execution Started at 18:35:21
+22-11-2021 18:35:58| Suit 1 Execution Stopped at 18:35:58
+22-11-2021 18:35:58| Total testCases failed after first Suite 0
+22-11-2021 18:35:58| Failed Execution Stopped at 18:35:58
+22-11-2021 18:35:58| Total testCases Failed After Retrying :0
+22-11-2021 18:37:33| -----------------------------Starting Test Suite------------------------------------------
+22-11-2021 18:37:34| Execution Started at 18:37:33
+22-11-2021 18:38:08| Suit 1 Execution Stopped at 18:38:8
+22-11-2021 18:38:08| Total testCases failed after first Suite 0
+22-11-2021 18:38:08| Failed Execution Stopped at 18:38:8
+22-11-2021 18:38:08| Total testCases Failed After Retrying :0
+22-11-2021 18:39:06| -----------------------------Starting Test Suite------------------------------------------
+22-11-2021 18:39:06| Execution Started at 18:39:06
+22-11-2021 18:39:39| Suit 1 Execution Stopped at 18:39:39
+22-11-2021 18:39:39| Total testCases failed after first Suite 0
+22-11-2021 18:39:39| Failed Execution Stopped at 18:39:39
+22-11-2021 18:39:39| Total testCases Failed After Retrying :0
+22-11-2021 18:42:19| -----------------------------Starting Test Suite------------------------------------------
+22-11-2021 18:42:19| Execution Started at 18:42:19
+22-11-2021 18:42:54| Suit 1 Execution Stopped at 18:42:54
+22-11-2021 18:42:54| Total testCases failed after first Suite 0
+22-11-2021 18:42:54| Failed Execution Stopped at 18:42:54
+22-11-2021 18:42:54| Total testCases Failed After Retrying :0

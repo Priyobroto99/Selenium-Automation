@@ -9,3 +9,58 @@
 13-11-2021 14:35:34| Click Search Button:true
 13-11-2021 14:35:45| Click Book Button:true
 13-11-2021 14:35:46| Get price of earliest flight next month:true
+22-11-2021 18:30:49| 
+22-11-2021 18:30:49| TC_003:Verify user is able to book earliest flight next month
+22-11-2021 18:30:58| Navigate to url:true
+22-11-2021 18:31:02| Enter Source Location:true
+22-11-2021 18:31:03| Enter Destination Location:true
+22-11-2021 18:31:13| Click departure textbox:true
+22-11-2021 18:31:19| Click '>' icon:true
+22-11-2021 18:31:19| Select earliest date:true
+22-11-2021 18:31:22| Click Search Button:true
+22-11-2021 18:31:53| Click Book Button:false
+22-11-2021 18:31:54| Get price of earliest flight next month:false
+22-11-2021 18:35:32| 
+22-11-2021 18:35:32| TC_003:Verify user is able to book earliest flight next month
+22-11-2021 18:35:38| Navigate to url:true
+22-11-2021 18:35:39| Enter Source Location:true
+22-11-2021 18:35:40| Enter Destination Location:true
+22-11-2021 18:35:46| Click departure textbox:true
+22-11-2021 18:35:46| Click '>' icon:true
+22-11-2021 18:35:46| Select earliest date:true
+22-11-2021 18:35:49| Click Search Button:true
+22-11-2021 18:35:49| Click Book Button:true
+22-11-2021 18:35:49| Get price of earliest flight next month:true
+22-11-2021 18:37:44| 
+22-11-2021 18:37:44| TC_003:Verify user is able to book earliest flight next month
+22-11-2021 18:37:49| Navigate to url:true
+22-11-2021 18:37:50| Enter Source Location:true
+22-11-2021 18:37:51| Enter Destination Location:true
+22-11-2021 18:37:57| Click departure textbox:true
+22-11-2021 18:37:57| Click '>' icon:true
+22-11-2021 18:37:57| Select earliest date:true
+22-11-2021 18:37:59| Click Search Button:true
+22-11-2021 18:37:59| Click Book Button:true
+22-11-2021 18:38:00| Get price of earliest flight next month:true
+22-11-2021 18:39:16| 
+22-11-2021 18:39:16| TC_003:Verify user is able to book earliest flight next month
+22-11-2021 18:39:20| Navigate to url:true
+22-11-2021 18:39:21| Enter Source Location:true
+22-11-2021 18:39:23| Enter Destination Location:true
+22-11-2021 18:39:28| Click departure textbox:true
+22-11-2021 18:39:28| Click '>' icon:true
+22-11-2021 18:39:28| Select earliest date:true
+22-11-2021 18:39:30| Click Search Button:true
+22-11-2021 18:39:30| Click Book Button:true
+22-11-2021 18:39:31| Get price of earliest flight next month:true
+22-11-2021 18:42:29| 
+22-11-2021 18:42:29| TC_003:Verify user is able to book earliest flight next month
+22-11-2021 18:42:35| Navigate to url:true
+22-11-2021 18:42:36| Enter Source Location:true
+22-11-2021 18:42:37| Enter Destination Location:true
+22-11-2021 18:42:43| Click departure textbox:true
+22-11-2021 18:42:43| Click '>' icon:true
+22-11-2021 18:42:43| Select earliest date:true
+22-11-2021 18:42:45| Click Search Button:true
+22-11-2021 18:42:45| Click Book Button:true
+22-11-2021 18:42:45| Get price of earliest flight next month:true
