@@ -1,11 +1,8 @@
 package ReportManager;
 
 import java.text.SimpleDateFormat;
-
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
-import java.util.TreeMap;
 
 import org.json.simple.JSONObject;
 
@@ -14,7 +11,6 @@ import MainRunner.Run;
 import excel.ExcelWriter;
 import onlineReport.MongoDBConnect;
 import onlineReport.RepOnline;
-import onlineReport.RepOnline.*;
 import testOutput.Logger;
 
 public class ReportMgr extends Run {

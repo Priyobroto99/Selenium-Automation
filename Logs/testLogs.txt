@@ -1359,3 +1359,9 @@
 31-10-2021 15:38:42| Total testCases failed after first Suite 0
 31-10-2021 15:38:42| Failed Execution Stopped at 15:38:42
 31-10-2021 15:38:42| Total testCases Failed After Retrying :0
+13-11-2021 14:34:51| -----------------------------Starting Test Suite------------------------------------------
+13-11-2021 14:34:53| Execution Started at 14:34:51
+13-11-2021 14:35:53| Suit 1 Execution Stopped at 14:35:53
+13-11-2021 14:35:54| Total testCases failed after first Suite 0
+13-11-2021 14:35:54| Failed Execution Stopped at 14:35:54
+13-11-2021 14:35:54| Total testCases Failed After Retrying :0

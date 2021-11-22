@@ -1,0 +1,11 @@
+13-11-2021 14:35:14| 
+13-11-2021 14:35:14| TC_003:Verify user is able to book earliest flight next month
+13-11-2021 14:35:23| Navigate to url:true
+13-11-2021 14:35:25| Enter Source Location:true
+13-11-2021 14:35:26| Enter Destination Location:true
+13-11-2021 14:35:31| Click departure textbox:true
+13-11-2021 14:35:31| Click '>' icon:true
+13-11-2021 14:35:31| Select earliest date:true
+13-11-2021 14:35:34| Click Search Button:true
+13-11-2021 14:35:45| Click Book Button:true
+13-11-2021 14:35:46| Get price of earliest flight next month:true
